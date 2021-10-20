@@ -1,0 +1,27 @@
+*{
+    width:100px;
+   height:100px;
+}
+h1{
+    text-shadow: none;
+    color: blue;
+    border-radius: 3px solid;
+    box-shadow: 2px 3px 4px;
+    text-align: center;
+    padding: 24%;
+    margin:14px;
+}
+h2{
+  color: black;
+  box-shadow: 2px 3px 4px; 
+  margin: 4px;
+  padding: 5px; 
+  text-align: center;
+}
+h3{
+    color: orange;
+    box-shadow: inset 2px 3px 4px;
+    border: 2px solid;
+    margin: 13px;
+
+}
